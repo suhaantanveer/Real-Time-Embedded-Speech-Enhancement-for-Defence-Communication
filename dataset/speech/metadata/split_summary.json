@@ -1,0 +1,17 @@
+{
+  "speaker_disjoint_public": {
+    "train_files": 2176,
+    "val_files": 261,
+    "test_files": 257,
+    "speaker_count": 40
+  },
+  "hindi_unknown": {
+    "files": 3454,
+    "warning": "No speaker/client metadata was available. These files are not included in the scientifically valid speaker-disjoint split."
+  },
+  "file_level_includes_unknown_hindi": {
+    "train": 2764,
+    "val": 345,
+    "test": 345
+  }
+}

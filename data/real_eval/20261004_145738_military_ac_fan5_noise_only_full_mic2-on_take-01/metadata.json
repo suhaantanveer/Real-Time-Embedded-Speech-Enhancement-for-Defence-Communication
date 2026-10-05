@@ -1,0 +1,11 @@
+{
+  "timestamp": "20261004_145738",
+  "sample_rate": 16000,
+  "requested_seconds": 20.0,
+  "scenario": "military_ac_fan5_noise_only",
+  "mode": "full",
+  "mic2": "on",
+  "take": "01",
+  "ip": "192.168.4.1",
+  "packet_bytes": 3840
+}

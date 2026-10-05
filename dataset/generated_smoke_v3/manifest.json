@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "train_0000000",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\6b190af7e2e20f9b.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\wind\\0244d5f928e56802.wav",
+    "snr_db": 21.641297634550977,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000000_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000000_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000000_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000001",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\ae467fee11d590fc.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\motorcycle\\965f7786eadfe839.wav",
+    "snr_db": 9.43971344485747,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000001_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000001_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000001_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000002",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\640bf9457ba66e4c.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "6313",
+    "language": "english",
+    "noise_class": "ambient",
+    "noise_source": "dataset\\noise_phase2\\noise\\ambient\\other\\bb63d563c0a182c4.wav",
+    "snr_db": 2.839561637209558,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000002_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000002_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000002_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000003",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\4cb7da049951512b.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\engine\\96fa492b48f459d0.wav",
+    "snr_db": 35.57331418457079,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000003_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000003_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000003_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000004",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\abaf8dc2ebbdfddc.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "2412",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\e1c5ee9c83d8f444.wav",
+    "snr_db": 11.333215082806518,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000004_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000004_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000004_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000005",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\b8de954056826f41.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\hvac\\e884d703671f4ca3.wav",
+    "snr_db": 14.554864516159846,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000005_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000005_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000005_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000006",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\a33fa732adcfae64.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\a0b8f0e9b5fda7e2.wav",
+    "snr_db": 17.612570722351652,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000006_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000006_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000006_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000007",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\941542e62c84208e.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\mechanisms\\bdeda455db92d552.wav",
+    "snr_db": 8.669230334673092,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000007_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000007_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000007_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000008",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\3e5eba547bf4944e.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "5338",
+    "language": "english",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\gunshot\\3aedde6432cb8eca.wav",
+    "snr_db": 9.35328018222442,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000008_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000008_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000008_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000009",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\eaced7dd0c038143.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\explosion\\d82cfeec392bcfd9.wav",
+    "snr_db": 3.381391523947599,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000009_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000009_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000009_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000010",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\5fd193c19fb00d01.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\mechanisms\\1700202e1d4e5d04.wav",
+    "snr_db": 5.950907142606759,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000010_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000010_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000010_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000011",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\7c9b130c62c9d96d.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle_horn\\c369e60b6f083e2d.wav",
+    "snr_db": 8.082994902461298,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000011_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000011_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000011_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000012",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\e657e4ab8b32d20c.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\engine\\0e7232d5251e8e87.wav",
+    "snr_db": 12.72228734442363,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000012_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000012_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000012_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000013",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\81f7e30aee8cf458.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3081",
+    "language": "english",
+    "noise_class": "ambient",
+    "noise_source": "dataset\\noise_phase2\\noise\\ambient\\other\\a3c3185c1c4d3dd8.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000013_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000013_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000013_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000014",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\c7891e1595d409dc.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\wind\\279fdfd1efd62ab7.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000014_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000014_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000014_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000015",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\2c6912a1baf54115.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "6319",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\mechanisms\\a4bfa71328950126.wav",
+    "snr_db": -1.5301537303121906,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000015_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000015_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000015_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000016",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\c7b59763fbf45e2a.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "ambient",
+    "noise_source": "dataset\\noise_phase2\\noise\\ambient\\other\\7c6a1deb92cb7a06.wav",
+    "snr_db": 14.35902626534914,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000016_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000016_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000016_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000017",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\bc2681cc976937dd.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\impact\\5bfdfcc3657e183a.wav",
+    "snr_db": -60.0,
+    "condition": "noise_only",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000017_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000017_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000017_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000018",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\c1ec53767be66477.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "2803",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\rain\\dbe3bd88c683604c.wav",
+    "snr_db": 19.219892992011275,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000018_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000018_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000018_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000019",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\1b48a954c22a0d84.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3752",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\crowd\\f9836ae35b90cbd0.wav",
+    "snr_db": -4.512423037900538,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000019_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000019_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000019_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000020",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\30b75e40d9e5039d.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\impact\\db2451b6d2211b1a.wav",
+    "snr_db": 29.630504939449345,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000020_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000020_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000020_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000021",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\2ac1a776b10ed35b.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\4d8191dfd88a8b38.wav",
+    "snr_db": 29.11509794658512,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000021_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000021_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000021_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000022",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\c7d1d3e97e33ece5.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "1462",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\568f7aec4b66ee1e.wav",
+    "snr_db": 18.979519491246645,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000022_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000022_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000022_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000023",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\8c9942b1e8f7887c.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\engine\\dbdf518d566340b1.wav",
+    "snr_db": -60.0,
+    "condition": "noise_only",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000023_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000023_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000023_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000024",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\b1f464d0a855f516.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\hvac\\e8a043984e0a4394.wav",
+    "snr_db": 9.162783973766258,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000024_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000024_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000024_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000025",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\6ffafab81396bdd7.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "6295",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle_horn\\875dea12d957e8c2.wav",
+    "snr_db": 18.606177818534597,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000025_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000025_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000025_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000026",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\558790a7be7d026e.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\explosion\\41849ba98c8e20bd.wav",
+    "snr_db": 11.171293110583758,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000026_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000026_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000026_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000027",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\ac59caefe91e0a2c.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "6313",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle_horn\\b4dbf6a0c03379da.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000027_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000027_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000027_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000028",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\fcd56e6d708d6e88.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "652",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\rain\\01e7d2d8f3dd2d25.wav",
+    "snr_db": 13.213416022848595,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000028_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000028_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000028_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000029",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\78cf2fc9ad0c7482.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3081",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\siren\\f25da990f7568e99.wav",
+    "snr_db": -4.46133013300891,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000029_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000029_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000029_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000030",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\2f07932f11db06bd.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\wind\\ba2cb21500cfbbec.wav",
+    "snr_db": 7.002366636057914,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000030_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000030_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000030_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000031",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\b878fd87c564fcfa.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\mechanisms\\a3490b56dd903edb.wav",
+    "snr_db": -60.0,
+    "condition": "noise_only",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000031_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000031_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000031_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000032",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\ad153b17fa19cc6d.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle_horn\\2ceba4b30c7474a1.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000032_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000032_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000032_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000033",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\ff8fc382f84ae862.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\drill\\d59bb6692f58a114.wav",
+    "snr_db": 8.30318766981699,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000033_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000033_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000033_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000034",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\292c0d66369bb475.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\siren\\0a72744f280dd235.wav",
+    "snr_db": 22.859817684009165,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000034_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000034_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000034_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000035",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\dc2de3f4e18f1957.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\impact\\fa94699ca91763c5.wav",
+    "snr_db": 13.338636031028788,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000035_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000035_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000035_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000036",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\621ac0dd6aa8919a.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\1f66b7953a3a0a69.wav",
+    "snr_db": 35.77004890326872,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000036_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000036_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000036_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000037",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\82a25dbb1b2cba28.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "7976",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\crowd\\d77971469193df99.wav",
+    "snr_db": -60.0,
+    "condition": "noise_only",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000037_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000037_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000037_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000038",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\70d191c523038005.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\rain\\a2efe0646fb4d93b.wav",
+    "snr_db": 12.238665205332723,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000038_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000038_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000038_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000039",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\4658b7ad69a52f5c.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "5895",
+    "language": "english",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\gunshot\\197583d4442d08cf.wav",
+    "snr_db": 17.135631493600155,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000039_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000039_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000039_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000040",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\da5d77fd48e27475.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\sawing\\71c9ec3f665005e2.wav",
+    "snr_db": 17.091704516695522,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000040_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000040_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000040_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000041",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\c9fa2da3a6c4aafe.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "2412",
+    "language": "english",
+    "noise_class": "ambient",
+    "noise_source": "dataset\\noise_phase2\\noise\\ambient\\other\\df5c0ffdb33faa74.wav",
+    "snr_db": 0.7617972319431638,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000041_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000041_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000041_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000042",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\0a2e89a934db08c8.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\impact\\7ba87dd16fdf9de9.wav",
+    "snr_db": -0.2953775877442508,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000042_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000042_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000042_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000043",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\8500fae5432b6416.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\machinery\\5b99d3e5055bbfa6.wav",
+    "snr_db": 0.6591243759011727,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000043_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000043_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000043_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000044",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\28cac87d7aef9605.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "251",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\fd4fdc6edd0aa9e1.wav",
+    "snr_db": 3.118470898342231,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000044_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000044_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000044_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000045",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\ee41d19307b0f585.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\engine\\b95297040b5aea5a.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000045_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000045_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000045_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000046",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\a1789c01291bca8d.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\sawing\\844bbc2cd10f2b75.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000046_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000046_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000046_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000047",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\14fe164724810319.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\drill\\7f9ecab1fe57e954.wav",
+    "snr_db": -2.450433631422109,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000047_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000047_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000047_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000048",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\61923c772707d946.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\explosion\\06dc4b444ead0779.wav",
+    "snr_db": 31.31153025037589,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000048_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000048_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000048_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000049",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\05e8db1fdb6e4369.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "1272",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\aircraft\\f8747b9a1282d1b8.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000049_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000049_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000049_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000050",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\726ad121e00a3212.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\engine\\a1ad3f6ccb430576.wav",
+    "snr_db": -60.0,
+    "condition": "noise_only",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000050_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000050_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000050_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000051",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\fa1b03952ddc2cc1.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "1462",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\3edf04567d6f8943.wav",
+    "snr_db": 26.971036859928887,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000051_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000051_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000051_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000052",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\50a06ec832715eb5.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\3a62ec033bb13c0e.wav",
+    "snr_db": -60.0,
+    "condition": "noise_only",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000052_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000052_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000052_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000053",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\9199a6444e86f83d.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\crowd\\c4041767b87060cb.wav",
+    "snr_db": 8.095589933077617,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000053_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000053_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000053_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000054",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\3aaa512d2c02385d.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "1993",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\drill\\e6813dd509d10bbb.wav",
+    "snr_db": 4.894427757889279,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000054_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000054_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000054_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000055",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\6b8c8f038f64bc57.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3752",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\car\\b61210b4910eae2e.wav",
+    "snr_db": 13.835163161332776,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000055_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000055_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000055_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000056",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\a3e7266fbcd0a014.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3752",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle_horn\\ea21e371b9fadcd7.wav",
+    "snr_db": 8.70329760957397,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000056_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000056_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000056_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000057",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\a30d0065a890a94d.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "6319",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\demand\\cc9dec1e96e47105.wav",
+    "snr_db": 14.615636003866104,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000057_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000057_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000057_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000058",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\bda1055687c121b7.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "5338",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle_horn\\30fcb18684d301f7.wav",
+    "snr_db": 15.853575721217116,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000058_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000058_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000058_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000059",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\d0432cc7f4c1a608.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\machinery\\e257f88e4a05531f.wav",
+    "snr_db": 30.77719645806036,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000059_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000059_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000059_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000060",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\39b4e4b30c2cef0b.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\358078f2c553f736.wav",
+    "snr_db": 16.710648453404612,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000060_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000060_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000060_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000061",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\14a6afdf946a2322.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "5536",
+    "language": "english",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\impact\\07b0eecb27f36327.wav",
+    "snr_db": 0.8095356742751543,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000061_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000061_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000061_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000062",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\408b896be063a7bf.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\42861f2fa5d28814.wav",
+    "snr_db": 28.729118976466456,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000062_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000062_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000062_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000063",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\9cb3a0d6e997536a.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "777",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\engine\\c7e3e2dcc091f2fe.wav",
+    "snr_db": 8.989002389868327,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000063_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000063_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000063_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000064",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\687e51e6e67ee41d.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\rain\\a8f7e0c1fc190ef8.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000064_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000064_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000064_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000065",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\bf35e8957a8801db.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "2902",
+    "language": "english",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\fireworks\\4b22e601f0e83c30.wav",
+    "snr_db": -2.826610178247969,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000065_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000065_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000065_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000066",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\1500fdd7112c536a.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\8fdd1b69f516a85a.wav",
+    "snr_db": 8.28204157952427,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000066_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000066_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000066_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000067",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\a5edf801e2dacf14.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\mechanisms\\74c13f7ae74cb841.wav",
+    "snr_db": 32.2939057816088,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000067_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000067_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000067_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000068",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\7c2d4cd204a998d5.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "1673",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\b89db441f7b46665.wav",
+    "snr_db": -60.0,
+    "condition": "noise_only",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000068_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000068_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000068_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000069",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\dfcf5ee174907f49.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\washing_machine\\40d75fb4914f83fe.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000069_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000069_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000069_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000070",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\c7c977797300732c.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "2902",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\wind\\801e14a86fa93326.wav",
+    "snr_db": 7.673697456447252,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000070_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000070_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000070_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000071",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\4f470f410c1277c1.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\hvac\\e8de01e2f76f4915.wav",
+    "snr_db": 3.5016262962276024,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000071_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000071_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000071_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000072",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\df07bd68152792db.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\mechanisms\\fb397d4623508c43.wav",
+    "snr_db": 3.4596058487131955,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000072_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000072_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000072_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000073",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\hindi\\aa8d66ad5a9fecc5.wav",
+    "speech_source_dataset": "common_voice_hindi",
+    "speaker_id": "UNKNOWN_HI",
+    "language": "hindi",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\hvac\\68843c08f4093d1b.wav",
+    "snr_db": 24.87887140567894,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000073_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000073_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000073_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000074",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\7c07df442f3289bb.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "7850",
+    "language": "english",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\explosion\\6e3499267355ca08.wav",
+    "snr_db": 39.953030873431516,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000074_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000074_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000074_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000075",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\2a49f913b7e0b0ce.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "1673",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\c5eae934831f1a92.wav",
+    "snr_db": 2.7248609096458836,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000075_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000075_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000075_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000076",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\dd5f1afa5011cbb7.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3752",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\car\\53c228755489ff38.wav",
+    "snr_db": -60.0,
+    "condition": "noise_only",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000076_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000076_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000076_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000077",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\c800b14d66c34ef5.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "84",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\engine_start\\8642fce9f2d3d0c0.wav",
+    "snr_db": 8.421108690854183,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000077_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000077_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000077_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000078",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\73dd12baa700967b.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "2428",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\engine\\c6701d3c9374fa92.wav",
+    "snr_db": 16.81787704030244,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000078_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000078_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000078_ref.wav"
+    }
+  },
+  {
+    "id": "train_0000079",
+    "split": "train",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\15fbc1ae1dfd424a.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "1462",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\mechanisms\\68ef929e43a7d61c.wav",
+    "snr_db": 12.195537756719748,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\train_0000079_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\train_0000079_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\train_0000079_ref.wav"
+    }
+  },
+  {
+    "id": "val_0000080",
+    "split": "val",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\41fd47cf36df73f6.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3000",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\siren\\c72703314a866995.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\val_0000080_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\val_0000080_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\val_0000080_ref.wav"
+    }
+  },
+  {
+    "id": "val_0000081",
+    "split": "val",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\79176a358c9410ae.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "8297",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\bus\\6c53eb1aa282c56b.wav",
+    "snr_db": -2.227167842101239,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\val_0000081_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\val_0000081_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\val_0000081_ref.wav"
+    }
+  },
+  {
+    "id": "val_0000082",
+    "split": "val",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\23106b575a0a4d18.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3000",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\mechanisms\\9ff864d646d9857a.wav",
+    "snr_db": 10.860918628518265,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\val_0000082_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\val_0000082_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\val_0000082_ref.wav"
+    }
+  },
+  {
+    "id": "val_0000083",
+    "split": "val",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\23106b575a0a4d18.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3000",
+    "language": "english",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\impact\\8a8aaf385e3ff624.wav",
+    "snr_db": 25.101784533591147,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\val_0000083_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\val_0000083_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\val_0000083_ref.wav"
+    }
+  },
+  {
+    "id": "val_0000084",
+    "split": "val",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\accdafef07e4e798.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3000",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\vehicle\\fd132e29582aebac.wav",
+    "snr_db": 32.323096413896515,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\val_0000084_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\val_0000084_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\val_0000084_ref.wav"
+    }
+  },
+  {
+    "id": "val_0000085",
+    "split": "val",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\9a4142d4e7d61dcc.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "8297",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\hvac\\1c4188938219c4ea.wav",
+    "snr_db": 13.14395585777762,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\val_0000085_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\val_0000085_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\val_0000085_ref.wav"
+    }
+  },
+  {
+    "id": "val_0000086",
+    "split": "val",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\d76ba392dac6cd40.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3000",
+    "language": "english",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\impact\\7ec6e56369402dcf.wav",
+    "snr_db": -60.0,
+    "condition": "noise_only",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\val_0000086_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\val_0000086_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\val_0000086_ref.wav"
+    }
+  },
+  {
+    "id": "val_0000087",
+    "split": "val",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\f9e66e10bffd0787.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "8297",
+    "language": "english",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\fireworks\\5cd780e896d3d319.wav",
+    "snr_db": -0.3621792621723694,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\val_0000087_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\val_0000087_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\val_0000087_ref.wav"
+    }
+  },
+  {
+    "id": "val_0000088",
+    "split": "val",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\35c973d8f79b80d7.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "1919",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\engine\\c37dd9dc451aecbc.wav",
+    "snr_db": 34.79630400968656,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\val_0000088_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\val_0000088_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\val_0000088_ref.wav"
+    }
+  },
+  {
+    "id": "val_0000089",
+    "split": "val",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\2704ea43642997c8.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3000",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\wind\\92cb916d5e737475.wav",
+    "snr_db": 16.891026680236255,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\val_0000089_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\val_0000089_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\val_0000089_ref.wav"
+    }
+  },
+  {
+    "id": "test_0000090",
+    "split": "test",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\4059411c9e968cd7.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "3170",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\machinery\\36de01db127489cf.wav",
+    "snr_db": -2.2016317065407613,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\test_0000090_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\test_0000090_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\test_0000090_ref.wav"
+    }
+  },
+  {
+    "id": "test_0000091",
+    "split": "test",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\dccf8d2c7e1fd050.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "2035",
+    "language": "english",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\fireworks\\2231a86542645698.wav",
+    "snr_db": 16.363733239048855,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\test_0000091_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\test_0000091_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\test_0000091_ref.wav"
+    }
+  },
+  {
+    "id": "test_0000092",
+    "split": "test",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\0e02625208a5cf45.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "8842",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\hvac\\b6705627ec931a2e.wav",
+    "snr_db": -60.0,
+    "condition": "noise_only",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\test_0000092_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\test_0000092_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\test_0000092_ref.wav"
+    }
+  },
+  {
+    "id": "test_0000093",
+    "split": "test",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\800da5c4a5d49f16.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "8842",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\drill\\f32c6ba752ae7fca.wav",
+    "snr_db": 32.14084849668594,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\test_0000093_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\test_0000093_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\test_0000093_ref.wav"
+    }
+  },
+  {
+    "id": "test_0000094",
+    "split": "test",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\7237ff5565b8e5f2.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "8842",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\hvac\\dfe06f6aa90b2de7.wav",
+    "snr_db": 20.98953337713056,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\test_0000094_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\test_0000094_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\test_0000094_ref.wav"
+    }
+  },
+  {
+    "id": "test_0000095",
+    "split": "test",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\626e00eee78555c8.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "6345",
+    "language": "english",
+    "noise_class": "impulsive",
+    "noise_source": "dataset\\noise_phase2\\noise\\impulsive\\explosion\\624b846994b39937.wav",
+    "snr_db": 25.58101021397053,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\test_0000095_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\test_0000095_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\test_0000095_ref.wav"
+    }
+  },
+  {
+    "id": "test_0000096",
+    "split": "test",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\e3b293895cfe225e.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "8842",
+    "language": "english",
+    "noise_class": "nonstationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\nonstationary\\mechanisms\\0690a4e493259a2c.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\test_0000096_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\test_0000096_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\test_0000096_ref.wav"
+    }
+  },
+  {
+    "id": "test_0000097",
+    "split": "test",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\70e37f040cc70071.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "6345",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\wind\\58b17992511f4f92.wav",
+    "snr_db": 3.0245689972174183,
+    "condition": "noisy",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\test_0000097_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\test_0000097_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\test_0000097_ref.wav"
+    }
+  },
+  {
+    "id": "test_0000098",
+    "split": "test",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\c02ee8472f43b196.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "2035",
+    "language": "english",
+    "noise_class": "stationary",
+    "noise_source": "dataset\\noise_phase2\\noise\\stationary\\engine\\de1eb60b0c0646bd.wav",
+    "snr_db": 60.0,
+    "condition": "clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\test_0000098_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\test_0000098_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\test_0000098_ref.wav"
+    }
+  },
+  {
+    "id": "test_0000099",
+    "split": "test",
+    "speech_source": "C:\\Users\\Suhaan\\Documents\\handoff_repo\\dataset\\speech\\clean\\english\\99ab19a9af4adee4.wav",
+    "speech_source_dataset": "librispeech",
+    "speaker_id": "8842",
+    "language": "english",
+    "noise_class": "ambient",
+    "noise_source": "dataset\\noise_phase2\\noise\\ambient\\other\\cca3570c59788322.wav",
+    "snr_db": 30.468692969755814,
+    "condition": "near_clean",
+    "paths": {
+      "clean": "dataset\\generated_smoke_v3\\audio\\test_0000099_clean.wav",
+      "primary_mic": "dataset\\generated_smoke_v3\\audio\\test_0000099_primary.wav",
+      "ref_mic": "dataset\\generated_smoke_v3\\audio\\test_0000099_ref.wav"
+    }
+  }
+]

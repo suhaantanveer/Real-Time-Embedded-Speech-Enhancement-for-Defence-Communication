@@ -1,0 +1,68 @@
+*** Begin Patch
+*** Update File: firmware/src/wifi_streamer.cpp
+@@
+ static bool          s_is_websocket[MAX_STREAM_CLIENTS];
+ static stream_source_t s_client_source[MAX_STREAM_CLIENTS];
++
++#define ALL_STREAM_BYTES (BATCH_SAMPLES * 3 * sizeof(int16_t))
+@@
+ static bool ws_send_binary(WiFiClient &client, const uint8_t *data, size_t len) {
+     if (!client || !client.connected()) return false;
+-    uint8_t packet[4 + BATCH_SAMPLES * sizeof(int16_t)];
++    // Largest binary frame is synchronized ALL mode: primary + ref + clean.
++    uint8_t packet[4 + ALL_STREAM_BYTES];
+@@
+     return (client.write(packet, total_len) == total_len);
+ }
++
++// Synchronized diagnostic frame:
++//   [primary: 640 int16] [ref: 640 int16] [clean: 640 int16]
++static bool ws_send_all(WiFiClient &client, const audio_stream_packet_t &pkt) {
++    if (!client || !client.connected()) return false;
++
++    uint8_t packet[4 + ALL_STREAM_BYTES];
++    const size_t payload_len = ALL_STREAM_BYTES;
++    size_t header_len = 0;
++
++    packet[0] = 0x82; // FIN + Binary Frame opcode
++    packet[1] = 126;  // 16-bit extended payload length
++    packet[2] = (uint8_t)((payload_len >> 8) & 0xFF);
++    packet[3] = (uint8_t)(payload_len & 0xFF);
++    header_len = 4;
++
++    size_t off = header_len;
++    memcpy(packet + off, pkt.primary, BATCH_SAMPLES * sizeof(int16_t));
++    off += BATCH_SAMPLES * sizeof(int16_t);
++    memcpy(packet + off, pkt.ref, BATCH_SAMPLES * sizeof(int16_t));
++    off += BATCH_SAMPLES * sizeof(int16_t);
++    memcpy(packet + off, pkt.clean, BATCH_SAMPLES * sizeof(int16_t));
++
++    return (client.write(packet, header_len + payload_len) ==
++            header_len + payload_len);
++}
+@@
+     if (strcmp(msg, "clean") == 0) {
+         s_client_source[client_idx] = STREAM_MODE_CLEAN;
+     } else if (strcmp(msg, "primary") == 0) {
+         s_client_source[client_idx] = STREAM_MODE_PRIMARY;
+     } else if (strcmp(msg, "ref") == 0) {
+         s_client_source[client_idx] = STREAM_MODE_REF;
++    } else if (strcmp(msg, "all") == 0) {
++        // ALL is a diagnostic-only synchronized stream. The payload contains
++        // primary + reference + clean in one binary WebSocket frame.
++        s_client_source[client_idx] = (stream_source_t)3;
+     }
+ }
+@@
+                 if (s_clients[i] && s_clients[i].connected() && s_is_websocket[i]) {
++                    if ((int)s_client_source[i] == 3) {
++                        bool ok = ws_send_all(s_clients[i], pkt);
++                        if (!ok) {
++                            s_clients[i].stop();
++                            s_is_websocket[i] = false;
++                        }
++                        continue;
++                    }
++
+                     const int16_t *buf = pkt.clean;
+*** End Patch

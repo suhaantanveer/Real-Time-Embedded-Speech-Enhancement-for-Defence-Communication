@@ -1,0 +1,7 @@
+{
+  "target_sample_rate": 16000,
+  "rir_rows": 60218,
+  "simulated": 60000,
+  "real": 218,
+  "rejects": 0
+}

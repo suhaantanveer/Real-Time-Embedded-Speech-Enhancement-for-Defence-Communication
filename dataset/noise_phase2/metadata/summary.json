@@ -1,0 +1,23 @@
+{
+  "target_sample_rate": 16000,
+  "noise_rows": 19538,
+  "rir_rows": 0,
+  "rejects": 380,
+  "noise_by_source": {
+    "FSD50K": 11278,
+    "ESC50": 422,
+    "UrbanSound8K": 7566,
+    "DEMAND": 272
+  },
+  "noise_by_class": {
+    "nonstationary": 11122,
+    "stationary": 3876,
+    "impulsive": 3568,
+    "ambient": 972
+  },
+  "noise_by_status": {
+    "KEEP": 19372,
+    "REVIEW": 166
+  },
+  "rir_by_type": {}
+}

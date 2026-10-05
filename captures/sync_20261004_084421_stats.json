@@ -1,0 +1,16 @@
+{
+  "timestamp": "20261004_084421",
+  "requested_seconds": 15.0,
+  "elapsed_seconds": 15.030999999988126,
+  "packets": 307,
+  "bad_packets": 0,
+  "samples_per_channel": {
+    "primary": 196480,
+    "ref": 196480,
+    "clean": 196480
+  },
+  "expected_samples_for_requested_duration": 240000,
+  "expected_packet_size_bytes": 3840,
+  "packet_payload_samples_per_channel": 640,
+  "sample_rate": 16000
+}

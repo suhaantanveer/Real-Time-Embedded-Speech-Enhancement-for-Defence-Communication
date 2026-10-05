@@ -1,0 +1,10 @@
+{
+  "elapsed_seconds": 23.046999999991385,
+  "requested_seconds": 20.0,
+  "packets_received": 407,
+  "bad_packets": 0,
+  "audio_samples": 260480,
+  "audio_duration_seconds": 16.28,
+  "expected_packets": 500,
+  "telemetry_messages": 40
+}

@@ -1,0 +1,1 @@
+file_id,output_path,source_dataset,original_path,rir_type,room_type,duration_sec,sample_rate_in,sample_rate_out,channels_in,rms_dbfs,peak_dbfs,clip_ratio,dc_abs,quality_status,quality_reason

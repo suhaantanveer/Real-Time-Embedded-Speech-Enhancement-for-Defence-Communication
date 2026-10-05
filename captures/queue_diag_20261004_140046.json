@@ -1,0 +1,24 @@
+{
+  "elapsed_seconds": 18.046999999991385,
+  "requested_seconds": 15.0,
+  "packets_received": 319,
+  "bad_packets": 0,
+  "samples_per_channel": 204160,
+  "audio_duration_seconds": 12.76,
+  "expected_packets": 375,
+  "missing_packets": 56,
+  "last_telemetry": {
+    "lat": 10698,
+    "att": 5.1,
+    "vad": false,
+    "pin": 0.0159,
+    "pref": 0.0,
+    "qdrop": 0,
+    "qsend": 315,
+    "qmax": 1,
+    "frames": 8178,
+    "batches": 315,
+    "maxgap": 16487
+  },
+  "telemetry_count": 30
+}

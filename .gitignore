@@ -1,0 +1,11 @@
+﻿dataset/audio/
+*.wav
+*.flac
+.venv/
+__pycache__/
+__pycache__/
+*.pyc
+*.tmp
+*.bak*
+*.zip
+*.exe
